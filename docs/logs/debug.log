@@ -1,0 +1,5 @@
+2021-03-23 22:30:11,186 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:21:26,074 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:24:22,906 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:29:58,602 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:31:25,043 asyncio      DEBUG    Using selector: SelectSelector

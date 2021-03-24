@@ -1,0 +1,631 @@
+2021-03-23 15:21:39,625 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 15:22:58,680 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\endpoints.py changed, reloading.
+2021-03-23 15:22:58,682 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 15:23:00,762 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 15:24:00,252 provApp.endpoints ERROR    Wrong ID format
+2021-03-23 15:24:15,207 provApp.endpoints WARNING  No available device (id = 212)
+2021-03-23 15:24:32,024 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\endpoints.py changed, reloading.
+2021-03-23 15:24:32,026 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 15:24:34,079 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 15:25:18,918 provApp.endpoints ERROR    Field 'id' expected a number but got 'B'.
+2021-03-23 15:26:03,601 provApp.endpoints WARNING  No available device (id = 2222)
+2021-03-23 15:30:58,317 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\forms.py changed, reloading.
+2021-03-23 15:30:58,318 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 15:31:00,678 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 15:31:09,631 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\forms.py changed, reloading.
+2021-03-23 15:31:09,632 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 15:31:11,637 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 15:31:13,280 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\forms.py changed, reloading.
+2021-03-23 15:31:13,281 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 15:31:15,566 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:25:42,785 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:25:42,789 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:25:43,946 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:26:10,124 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:26:10,126 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:26:11,138 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:26:23,667 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:26:23,668 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:26:24,735 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:26:33,103 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:26:33,106 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:26:34,254 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:26:39,580 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:26:39,582 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:26:41,792 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:26:55,462 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:26:55,463 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:26:57,468 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:27:18,093 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:27:18,095 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:27:20,095 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:31:50,470 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:31:50,471 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:31:52,788 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:35:14,952 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:35:14,954 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:35:17,037 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:38:38,425 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:38:38,426 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:38:40,632 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:39:26,231 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\endpoints.py changed, reloading.
+2021-03-23 19:39:26,233 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:39:28,427 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:46:45,556 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:49:05,642 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:49:05,644 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:49:05,679 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:49:05,682 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:49:08,041 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:49:08,072 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:50:15,604 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:50:15,608 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:50:15,639 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 19:50:15,641 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 19:50:17,927 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 19:50:17,939 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:11:25,350 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:11:25,352 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:11:25,360 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:11:25,364 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:11:27,756 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:11:27,791 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:12:15,059 django.request ERROR    Internal Server Error: /api/device/
+Traceback (most recent call last):
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\serializers.py", line 760, in data
+    ret = super().data
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\serializers.py", line 260, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\serializers.py", line 678, in to_representation
+    self.child.to_representation(item) for item in iterable
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\serializers.py", line 678, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\serializers.py", line 516, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\fields.py", line 454, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\fields.py", line 99, in get_attribute
+    instance = instance()
+  File "C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py", line 122, in getExtensionJSON
+    result.append({"id": ext[0].id, "extension": ext[0].extension,
+NameError: name 'result' is not defined
+2021-03-23 20:13:17,211 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:13:17,215 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:13:17,218 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:13:17,219 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:13:19,454 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:13:19,460 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:14:15,843 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:14:15,848 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:14:15,911 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:14:15,913 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:14:18,144 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:14:18,179 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:27:32,033 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:27:32,035 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:27:32,041 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:27:32,045 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:27:34,422 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:27:34,428 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:29:35,683 django.request WARNING  Method Not Allowed: /api/xml/
+2021-03-23 20:30:00,574 django.request WARNING  Bad Request: /api/device/
+2021-03-23 20:31:31,480 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:31:31,484 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:31:31,497 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:31:31,499 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:31:33,974 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:31:33,977 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:35:49,229 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:35:49,231 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:35:49,243 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:35:49,246 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:35:51,576 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:35:51,590 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:47:30,193 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:47:30,198 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:47:30,242 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 20:47:30,245 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:47:32,566 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:47:32,566 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 20:48:06,847 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 20:48:06,980 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:25:23,665 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:25:57,841 provApp.endpoints ERROR    write() argument must be str, not QuerySet
+2021-03-23 21:26:14,256 provApp.endpoints ERROR    write() argument must be str, not QuerySet
+2021-03-23 21:27:33,531 provApp.endpoints ERROR    Wrong ID format
+2021-03-23 21:27:38,197 django.request WARNING  Not Found: /api/xml/2/
+2021-03-23 21:28:16,284 provApp.endpoints ERROR    Wrong ID format
+2021-03-23 21:28:47,372 provApp.endpoints ERROR    write() argument must be str, not QuerySet
+2021-03-23 21:30:18,641 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\endpoints.py changed, reloading.
+2021-03-23 21:30:18,643 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:30:18,677 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\endpoints.py changed, reloading.
+2021-03-23 21:30:18,679 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:30:20,864 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:30:20,872 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:30:23,855 provApp.endpoints ERROR    write() argument must be str, not QuerySet
+2021-03-23 21:32:10,267 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\endpoints.py changed, reloading.
+2021-03-23 21:32:10,269 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:32:10,458 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\endpoints.py changed, reloading.
+2021-03-23 21:32:10,462 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:32:12,636 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:32:12,788 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:32:15,410 provApp.endpoints ERROR    write() argument must be str, not QuerySet
+2021-03-23 21:32:34,107 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\endpoints.py changed, reloading.
+2021-03-23 21:32:34,108 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:32:34,159 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\endpoints.py changed, reloading.
+2021-03-23 21:32:34,160 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:32:36,639 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:32:36,676 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:32:38,282 provApp.endpoints ERROR    write() argument must be str, not QuerySet
+2021-03-23 21:32:40,795 provApp.endpoints ERROR    write() argument must be str, not QuerySet
+2021-03-23 21:32:43,780 provApp.endpoints ERROR    write() argument must be str, not QuerySet
+2021-03-23 21:32:58,182 provApp.endpoints ERROR    write() argument must be str, not QuerySet
+2021-03-23 21:33:53,421 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:33:53,422 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:33:53,429 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:33:53,430 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:33:55,718 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:33:55,724 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:34:17,051 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:34:17,052 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:34:17,090 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:34:17,094 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:34:19,899 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:34:19,919 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:34:56,817 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:34:56,819 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:34:57,040 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:34:57,041 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:34:59,151 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:34:59,337 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:35:09,457 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:35:09,458 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:35:09,570 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:35:09,573 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:35:11,999 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:35:12,098 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:35:14,855 provApp.endpoints ERROR    'Extension' object is not subscriptable
+2021-03-23 21:35:57,963 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:35:57,964 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:35:58,004 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:35:58,007 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:36:00,588 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:36:00,618 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:36:01,235 provApp.endpoints ERROR    cannot serialize <Extension: Keep trial measure student ins> (type Extension)
+2021-03-23 21:36:55,058 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\endpoints.py changed, reloading.
+2021-03-23 21:36:55,059 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:36:55,106 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\endpoints.py changed, reloading.
+2021-03-23 21:36:55,107 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:36:57,483 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:36:57,512 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:37:14,444 provApp.endpoints ERROR    cannot serialize <Extension: Keep trial measure student ins> (type Extension)
+2021-03-23 21:37:30,391 provApp.endpoints ERROR    cannot serialize <Extension: Keep trial measure student ins> (type Extension)
+2021-03-23 21:37:44,880 provApp.endpoints ERROR    cannot serialize <Extension: Keep trial measure student ins> (type Extension)
+2021-03-23 21:37:51,841 provApp.endpoints ERROR    cannot serialize <Extension: Tree prove tell fly today. Met> (type Extension)
+2021-03-23 21:38:21,617 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:38:21,618 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:38:22,122 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:38:22,123 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:38:23,871 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:38:24,406 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:40:35,069 django.request ERROR    Internal Server Error: /api/device/7/
+Traceback (most recent call last):
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\viewsets.py", line 114, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\views.py", line 505, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\views.py", line 465, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\views.py", line 476, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\views.py", line 502, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\mixins.py", line 56, in retrieve
+    return Response(serializer.data)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\serializers.py", line 562, in data
+    ret = super().data
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\serializers.py", line 260, in data
+    self._data = self.to_representation(self.instance)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\serializers.py", line 516, in to_representation
+    attribute = field.get_attribute(instance)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\fields.py", line 454, in get_attribute
+    return get_attribute(instance, self.source_attrs)
+  File "C:\Users\viktorh\Anaconda3\lib\site-packages\rest_framework\fields.py", line 99, in get_attribute
+    instance = instance()
+  File "C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py", line 122, in getExtensionJSON
+    ext = getExtension()
+NameError: name 'getExtension' is not defined
+2021-03-23 21:41:04,075 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:41:04,079 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:41:04,118 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:41:04,119 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:41:06,871 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:41:06,884 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:42:49,302 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:42:49,303 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:42:49,306 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:42:49,307 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:42:51,844 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:42:51,862 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:42:55,310 provApp.endpoints ERROR    cannot serialize <Extension: Tree prove tell fly today. Met> (type Extension)
+2021-03-23 21:44:32,867 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:44:32,869 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:44:32,882 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:44:32,884 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:44:35,313 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:44:35,322 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:44:54,343 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:44:54,344 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:44:55,642 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:44:55,648 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:44:56,967 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:44:58,301 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:45:56,862 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:45:56,864 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:45:56,898 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:45:56,899 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:45:59,388 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:45:59,404 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:46:00,508 provApp.endpoints ERROR    'QuerySet' object has no attribute 'customer'
+2021-03-23 21:47:13,724 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:47:13,726 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:47:13,729 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:47:13,730 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:47:16,093 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:47:16,098 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:47:35,293 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:47:35,295 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:47:35,368 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:47:35,370 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:47:37,558 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:47:37,582 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:48:38,238 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:48:38,239 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:48:38,246 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:48:38,248 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:48:40,628 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:48:40,656 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:49:37,436 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:49:37,438 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:49:37,456 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:49:37,457 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:49:39,784 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:49:39,789 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:50:02,453 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:50:02,455 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:50:02,487 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:50:02,489 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:50:04,873 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:50:04,912 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:50:39,781 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:50:39,783 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:50:39,806 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 21:50:39,807 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:50:41,990 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:50:41,990 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:54:39,268 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provisioning\settings.py changed, reloading.
+2021-03-23 21:54:39,301 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:54:39,323 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provisioning\settings.py changed, reloading.
+2021-03-23 21:54:39,325 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:54:40,530 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:54:40,537 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:54:42,213 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:54:42,238 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:54:42,435 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:54:42,434 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:54:55,070 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:54:56,322 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:55:37,069 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:58:38,590 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provisioning\settings.py changed, reloading.
+2021-03-23 21:58:38,592 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:58:40,670 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 21:59:59,119 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 21:59:59,245 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:00:39,063 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:02:30,610 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provisioning\settings.py changed, reloading.
+2021-03-23 22:02:30,612 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:02:32,542 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:02:49,894 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:03:03,929 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:04:02,487 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:04:38,508 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:04:55,016 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:04:57,871 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:04:57,988 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:05:02,313 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:05:11,411 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:06:03,928 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:08:18,089 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:08:23,000 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:10:07,625 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:10:11,232 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:12:26,345 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:12:42,471 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:12:42,591 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:12:47,623 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:13:01,173 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:13:01,304 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:36:11,539 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:37:16,737 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\views.py changed, reloading.
+2021-03-23 22:37:16,739 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:37:18,868 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:38:29,368 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\views.py changed, reloading.
+2021-03-23 22:38:29,369 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:38:31,469 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:38:42,737 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\views.py changed, reloading.
+2021-03-23 22:38:42,739 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:38:44,970 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:39:44,149 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\forms.py changed, reloading.
+2021-03-23 22:39:44,150 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:39:46,337 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:46:45,318 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\admin.py changed, reloading.
+2021-03-23 22:46:45,320 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:46:46,405 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:52:28,078 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 22:52:28,080 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:52:29,404 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:54:16,813 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\admin.py changed, reloading.
+2021-03-23 22:54:16,815 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:54:17,921 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:56:31,207 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\admin.py changed, reloading.
+2021-03-23 22:56:31,208 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:56:32,402 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:56:34,939 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\admin.py changed, reloading.
+2021-03-23 22:56:34,940 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:56:36,028 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:56:41,348 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\admin.py changed, reloading.
+2021-03-23 22:56:41,350 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:56:42,495 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:57:10,013 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\admin.py changed, reloading.
+2021-03-23 22:57:10,015 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:57:11,124 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:57:17,585 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\admin.py changed, reloading.
+2021-03-23 22:57:17,587 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:57:18,671 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:57:40,781 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\admin.py changed, reloading.
+2021-03-23 22:57:40,783 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:57:41,861 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:57:58,977 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\admin.py changed, reloading.
+2021-03-23 22:57:58,979 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:58:00,087 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 22:58:23,319 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\admin.py changed, reloading.
+2021-03-23 22:58:23,321 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 22:58:25,444 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:00:23,277 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\admin.py changed, reloading.
+2021-03-23 23:00:23,279 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:00:25,357 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:02:20,226 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\admin.py changed, reloading.
+2021-03-23 23:02:20,227 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:02:22,485 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:07:04,212 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\endpoints.py changed, reloading.
+2021-03-23 23:07:04,213 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:07:06,349 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:11:13,781 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\serializers.py changed, reloading.
+2021-03-23 23:11:13,783 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:11:15,792 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:12:29,699 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\serializers.py changed, reloading.
+2021-03-23 23:12:29,701 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:12:31,786 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:13:44,213 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\urls.py changed, reloading.
+2021-03-23 23:13:44,215 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:13:46,323 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:17:33,045 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\urls.py changed, reloading.
+2021-03-23 23:17:33,047 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:17:35,368 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:18:35,931 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\views.py changed, reloading.
+2021-03-23 23:18:35,933 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:18:38,082 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:18:48,349 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\views.py changed, reloading.
+2021-03-23 23:18:48,350 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:18:50,487 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:19:01,949 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\views.py changed, reloading.
+2021-03-23 23:19:01,951 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:19:04,357 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:19:32,792 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\urls.py changed, reloading.
+2021-03-23 23:19:32,793 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:19:35,015 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:21:08,734 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provisioning\urls.py changed, reloading.
+2021-03-23 23:21:08,736 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:21:11,045 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:24:10,304 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 23:24:10,305 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:24:12,389 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:27:09,727 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 23:27:09,728 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:27:11,767 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:28:27,923 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 23:28:27,925 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:28:30,038 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:29:16,672 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 23:29:16,676 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:29:19,425 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-23 23:29:50,999 django.utils.autoreload INFO     C:\Users\viktorh\Documents\Mojo\telsmart\provisioning\provApp\models.py changed, reloading.
+2021-03-23 23:29:51,000 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-23 23:29:52,932 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2021-03-24 11:10:37,008 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 11:10:37,166 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 11:30:11,716 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:18:16,094 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:19:01,997 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:19:35,990 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:20:17,718 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:20:34,588 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:20:41,955 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:24:36,434 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:25:28,192 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:25:54,830 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:27:21,748 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:28:06,254 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:28:53,400 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:29:13,866 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:30:08,796 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:30:38,326 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:31:06,338 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:36:17,813 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:37:06,015 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:37:23,523 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:38:23,839 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:39:23,563 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:41:12,413 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:42:21,295 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:42:32,444 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:42:43,972 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:42:56,911 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 12:43:08,928 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:09:25,951 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:11:19,601 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:11:45,215 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:12:39,510 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:12:53,050 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:16:06,512 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:16:23,600 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:24:17,081 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:25:18,960 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:27:11,275 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:27:28,884 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:28:21,097 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:28:44,535 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:29:20,988 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:32:30,474 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:33:10,732 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:34:40,423 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:36:19,136 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:36:50,942 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:37:22,059 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:38:39,002 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:39:06,058 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:39:38,077 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:40:07,770 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:40:08,848 django.request WARNING  Not Found: /api/device/1/
+2021-03-24 13:40:43,561 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:41:39,832 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:42:52,052 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:42:52,997 django.request WARNING  Not Found: /api/device/1/
+2021-03-24 13:45:00,075 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:45:01,090 django.request WARNING  Not Found: /api/dds/
+2021-03-24 13:46:09,220 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:46:10,180 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 13:47:23,555 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:47:24,518 django.request WARNING  Not Found: /..admin/provApp/form/1
+2021-03-24 13:47:46,049 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:47:47,029 django.request WARNING  Not Found: /..admin/provApp/form/1/
+2021-03-24 13:49:36,332 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 13:49:37,301 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:02:53,810 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:02:54,949 django.request WARNING  Not Found: /xml/
+2021-03-24 14:02:54,954 django.request WARNING  Not Found: /xml/
+2021-03-24 14:03:29,309 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:03:30,453 django.request WARNING  Not Found: /device
+2021-03-24 14:06:01,928 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:06:02,895 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:06:02,900 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:06:24,766 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:06:25,851 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:06:25,854 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:06:41,812 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:06:42,891 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:06:42,895 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:10:42,556 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:10:43,717 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:10:43,722 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:12:21,949 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:12:22,901 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:12:22,904 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:22:00,903 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:22:01,876 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:22:01,880 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:25:15,999 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:26:02,385 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:26:29,852 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:26:52,155 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:27:06,989 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:27:07,979 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:27:07,983 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:29:09,163 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:29:10,194 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:29:10,198 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:30:02,072 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:30:03,156 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:30:03,159 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:30:52,957 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:30:54,220 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:30:54,223 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:31:54,029 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:31:54,982 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:31:54,985 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:33:00,771 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:33:01,790 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:33:01,793 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:34:05,957 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:34:45,438 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:34:46,404 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:34:46,407 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:36:16,464 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:36:17,617 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:36:17,620 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:36:39,187 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:36:40,144 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:36:40,148 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:36:40,152 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:38:18,069 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:38:19,034 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:38:19,038 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:38:50,349 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:38:51,437 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:38:51,440 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:42:52,886 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:43:22,725 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:44:06,092 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:44:30,465 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:45:03,613 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:45:44,417 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:46:02,708 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:46:03,675 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:46:45,186 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:46:46,315 provApp.endpoints ERROR    Wrong ID format
+2021-03-24 14:47:31,662 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:47:47,477 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:47:48,452 provApp.endpoints WARNING  No available device (id = 1)
+2021-03-24 14:49:13,464 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:49:37,084 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:49:38,052 provApp.endpoints WARNING  No available device (id = 1)
+2021-03-24 14:49:55,817 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:49:56,808 provApp.endpoints WARNING  No available device (id = 1)
+2021-03-24 14:50:10,198 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:50:11,198 provApp.endpoints WARNING  No available device (id = 1)
+2021-03-24 14:50:48,943 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:50:49,901 provApp.endpoints WARNING  No available device (id = 1)
+2021-03-24 14:51:59,663 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:52:00,672 provApp.endpoints WARNING  No available device (id = 1)
+2021-03-24 14:52:28,748 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:52:29,782 provApp.endpoints WARNING  No available device (id = 1)
+2021-03-24 14:53:17,515 asyncio      DEBUG    Using selector: SelectSelector
+2021-03-24 14:53:18,511 provApp.endpoints WARNING  No available device (id = 1)
